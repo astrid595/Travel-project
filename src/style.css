@@ -18,6 +18,11 @@ body {
   display: block;
 }
 
+.img-card {
+  max-width: 180px;
+  display: block;
+}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
