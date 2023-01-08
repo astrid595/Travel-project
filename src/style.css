@@ -41,7 +41,7 @@ body {
 }
 
 .instagram-embeds {
-  margin: 30px;
+  margin: 30px 0;
 }
 
 .card {
@@ -256,8 +256,5 @@ header a {
       aspect-ratio: 16/9;
     }
 
-    .instagram-embeds {
-      width: 100%;
-    }
 
   }
