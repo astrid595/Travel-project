@@ -256,4 +256,8 @@ header a {
       aspect-ratio: 16/9;
     }
 
+    .instagram-embeds {
+      width: 100%;
+    }
+
   }
